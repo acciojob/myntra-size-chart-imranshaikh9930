@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+
+table{
+	border:1px solid black;
+    border-collapse: collapse;
+    border-style: hidden;
+	width:100%;
+	font-family:Inter;
+
+}
+
+table ,td ,th{
+      padding: 4px 30px;
+     border: 3px solid black;
+	text-align:left;
+}
+th{
+	background:#BC3541;
+	color:white;
+	font-family:Inter;
+	font-weight:300;
+	text-align:left;
+
+}
+.white{
+	background:rgba(197, 53, 65, 0.3);
+	color:white;
+}
